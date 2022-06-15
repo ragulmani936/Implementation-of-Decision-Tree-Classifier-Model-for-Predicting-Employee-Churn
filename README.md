@@ -38,7 +38,7 @@ RegisterNumber:212221230080
 ## Salary:
 ![pic 5](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20salary.png)
 ## X.head:
-![pic 6]()
+![pic 6](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/x.head%20.png)
 ## Accuracy:
 ![pic 7]()
 ## Predict:
