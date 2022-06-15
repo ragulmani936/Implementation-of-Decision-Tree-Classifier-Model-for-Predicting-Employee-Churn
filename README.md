@@ -33,5 +33,15 @@ RegisterNumber:212221230080
 ![pic 2](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20info.png)
 ## Data isnull:
 ![pic 3](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20isnull.png)
+## Value count:
+![pic 4]()
+## Salary:
+![pic 5]()
+## X.head:
+![pic 6]()
+## Accuracy:
+![pic 7]()
+## Predict:
+![pic 8]()
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
