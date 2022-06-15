@@ -28,7 +28,7 @@ RegisterNumber:212221230080
 
 ## Output:
 ## Data head:
-![pic 1]()
+![pic 1](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20head.png)
 ## Data info:
 ![pic 2]()
 ## Data isnull:
