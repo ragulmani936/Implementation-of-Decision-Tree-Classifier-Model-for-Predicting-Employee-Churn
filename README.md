@@ -25,6 +25,7 @@ Developed by:Ragul M
 RegisterNumber:212221230080  
 */
 ```
+~~~
 import pandas as pd
 data=pd.read_csv("Employee.csv")
 data.head()
@@ -48,6 +49,7 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
+~~~
 ## Output:
 ## Data head:
 ![pic 1](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20head.png)
