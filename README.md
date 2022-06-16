@@ -40,7 +40,7 @@ RegisterNumber:212221230080
 ## X.head:
 ![pic 6](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/x.head%20.png)
 ## Accuracy:
-![pic 7]()
+![pic 7](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/accuracy.png)
 ## Predict:
 ![pic 8]()
 ## Result:
